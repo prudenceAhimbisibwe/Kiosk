@@ -1,0 +1,49 @@
+body{
+    height: 100%;
+    overflow: hidden;
+    align-items: center;
+ }
+ ul li{
+    list-style:none;
+    margin-top: -20%;
+ }
+#fruList{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 10%;
+}
+#fruList ul{
+    list-style: none;
+  
+}
+#fruList img{
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+    margin: 2%;
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#vegList{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 10%;
+}
+#vegList ul{
+    list-style: none;
+  
+}
+#vegList img{
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+    margin: 2%;
+}
